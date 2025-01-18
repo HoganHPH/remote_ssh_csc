@@ -47,7 +47,7 @@ ___
 - Fix: set MACs hmac-sha2-512
 
 2. Private key file: Permission deny
-- Detail solution can be found at (How to avoid Permission denied (publickey) SSH key (Windows))[https://stackoverflow.com/questions/64687271/how-to-avoid-permission-denied-publickey-ssh-key-windows]
+- Detail solution can be found at <a href='https://stackoverflow.com/questions/64687271/how-to-avoid-permission-denied-publickey-ssh-key-windows'>How to avoid Permission denied (publickey) SSH key (Windows)</a>
 - Note:
   + Reset file/folder permission on windows:
 ```bash
